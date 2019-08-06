@@ -72,13 +72,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#33834a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#3d9d59!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#41a85f"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -101,7 +101,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#41a85f",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -423,13 +423,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#33834a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#3d9d59!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#41a85f"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -452,7 +452,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#41a85f",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -556,13 +556,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#33834a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#3d9d59!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#41a85f"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -585,7 +585,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#41a85f",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -703,13 +703,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#33834a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#3d9d59!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#41a85f"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -732,7 +732,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#41a85f",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -845,13 +845,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#33834a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#3d9d59!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#41a85f"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -874,7 +874,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#41a85f",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -987,13 +987,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#33834a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#3d9d59!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#41a85f"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1016,7 +1016,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#41a85f",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1137,13 +1137,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#33834a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#3d9d59!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#41a85f"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1166,7 +1166,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#41a85f",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1283,13 +1283,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#33834a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#3d9d59!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#41a85f"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1312,7 +1312,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#41a85f",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1425,13 +1425,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#33834a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#3d9d59!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#41a85f"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1454,7 +1454,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#41a85f",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1535,13 +1535,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#33834a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#3d9d59!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#41a85f"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1564,7 +1564,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#41a85f",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
