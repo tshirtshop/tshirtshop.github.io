@@ -377,10 +377,10 @@
           "caption6": "Full gram thc vape many flavours",
           "button1": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"page7.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page8.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -793,7 +793,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "KushyPunch is one of California’s iconic cannabis brands,\n<br>and the top-selling gummy in the Golden State.\n<br>Our locally sourced full spectrum oil, our science-forward approach and lush full body high\n<br>has made us a favorite for recreational and medical consumers.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Contact</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">Contact</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/kushypunchprivate-1000x1000.png",
@@ -807,7 +807,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": " Our gummy line includes sativa (strawberry), hybrid (tropical punch), indica (plum), <b>Private Reserve</b> (pink lemonade) Recover (black and blue raspberry), and KushyCBD (peach).",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Contact</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">Contact</a> "
               }
             ]
           },
@@ -935,7 +935,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Using a patented process to displace the oxygen inside the can with nitrogen, we can our cannabis in small batches as it is cured. We seal each can with an easy to open pop-top lid to create an air-tight and completely odorless package—that is, until you pop the lid and inhale the ripe, harvest-fresh aroma.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Contact</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">Contact</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/smarbud-open-1080x1080.jpg",
@@ -949,7 +949,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Re-Usable &amp; 100% Recyclable<br>Inhibits Mold, Bacteria &amp; Microorganisms<br>100% Food Grade &amp; Safe<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Contact</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">Contact</a> "
               }
             ]
           },
@@ -1249,7 +1249,7 @@
           },
           "title": "\r<div><br></div><div>TKO EXTRACTS\r</div>",
           "text": "All our vapes use premium terpenes blended into our cold-ethanol distillate. No other fillers are added…no P/G, no V/G, no dilutants.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Contact</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">Contact</a>",
           "_tags": [
             "Theme"
           ],
@@ -1373,7 +1373,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Flavors\n<br>. Milk Chocolate*\n<br>. Dark Chocolate Almond*\n<br>. Toffee Milk Chocolate\n<br>. Mint Dark Chocolate*\n<br>. Dark Chocolate Raspberry*\n<br>. Milk Chocolate Caramel Bits\n<br>. Tangerine Dark Chocolate*\n<br>. S’mores Milk Chocolate\n<br>. Milk Chocolate Malted Crunch\n<br>. Dark Chocolate Sea Salt\n<br> 39 calories, 4g sugar per serving, Net Wt 22g\n<br>Peak Effect: 60-90 mins\n<br>* Gluten Free&nbsp;<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Contact</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">Contact</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/fa84481a-09df-4216-bfd7-160d72ad0a97-punch-bar-milk-chocolate-menu-1050x1050.jpg",
@@ -1387,7 +1387,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Flavors\n<br>. Milk Chocolate*\n<br>. Dark Chocolate Almond*\n<br>. Toffee Milk Chocolate\n<br>. Mint Dark Chocolate*\n<br>. Dark Chocolate Raspberry*\n<br>. Milk Chocolate Caramel Bits\n<br>. Tangerine Dark Chocolate*\n<br>. S’mores Milk Chocolate\n<br>. Milk Chocolate Malted Crunch\n<br>. Dark Chocolate Sea Salt\n<br> 39 calories, 4g sugar per serving, Net Wt 22g\n<br>Peak Effect: 60-90 mins\n<br>* Gluten Free&nbsp;<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Contact</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">Contact</a> "
               }
             ]
           },
