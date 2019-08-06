@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-04_2349",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -935,7 +935,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Using a patented process to displace the oxygen inside the can with nitrogen, we can our cannabis in small batches as it is cured. We seal each can with an easy to open pop-top lid to create an air-tight and completely odorless package—that is, until you pop the lid and inhale the ripe, harvest-fresh aroma.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Contact</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/smarbud-open-1080x1080.jpg",
@@ -1103,7 +1103,7 @@
           },
           "title": "TRAVELER ALL IN ONE",
           "text": "Available in 7 Varieties .5 gram Stainless Steel with battery&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">Contact</a>",
           "_tags": [
             "Theme"
           ],
