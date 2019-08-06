@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-04_2349",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -240,8 +240,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/traveler-sativahybrid-250x350.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/traveler-sativahybrid-250x350-200x200.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/traveler-sativa-250x350.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/traveler-sativa-250x350-200x200.jpeg",
                 "alt": "",
                 "title": "",
                 "caption": "<b><a href=\"page6.html\">Winberry Farms All-in-One Vape</a></b>",
